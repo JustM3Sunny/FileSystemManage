@@ -10,7 +10,7 @@ This project is a simple command-line utility built with Node.js that provides b
 
 2. **Clone the repository:** Clone this repository to your local machine using Git:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/JustM3Sunny/FileSystemManage.git)
    ```
    Replace `<repository_url>` with the actual URL of this project's repository.
 
@@ -58,7 +58,7 @@ This project uses the following Node.js core modules:
 node your_script_name.js
 
 # Example: Read a file
-node your_script_name.js  # Select option 1 and provide the file path
+node app.js  # Select option 1 and provide the file path
 ```
 
 ### **Contributing** 🤝
