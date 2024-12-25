@@ -15,7 +15,7 @@ This project is a simple command-line utility built with Node.js that provides b
 
 3. **Navigate to the project directory:** Open your terminal and navigate to the project's directory:
    ```bash
-   cd <project_directory>
+   cd FileSystemManage
    ```
 
 ### **Features** ✨
