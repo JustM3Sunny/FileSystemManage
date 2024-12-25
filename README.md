@@ -10,9 +10,8 @@ This project is a simple command-line utility built with Node.js that provides b
 
 2. **Clone the repository:** Clone this repository to your local machine using Git:
    ```bash
-   git clone (https://github.com/JustM3Sunny/FileSystemManage.git)
+   git clone https://github.com/JustM3Sunny/FileSystemManage.git
    ```
-   Replace `<repository_url>` with the actual URL of this project's repository.
 
 3. **Navigate to the project directory:** Open your terminal and navigate to the project's directory:
    ```bash
@@ -32,10 +31,8 @@ This project is a simple command-line utility built with Node.js that provides b
 
 1. **Run the script:** Execute the script using Node.js:
    ```bash
-   node your_script_name.js 
+   node app.js 
    ```
-   Replace `your_script_name.js` with the actual name of your JavaScript file (e.g., `fs_utility.js`).
-
 2. **Choose an option:** The program will present a menu with numbered options. Enter the number corresponding to the desired operation (1-5).
 
 3. **Provide input:** Follow the prompts to provide necessary information such as file paths, content, etc.
